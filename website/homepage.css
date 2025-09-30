@@ -1,0 +1,40 @@
+body {
+
+  /* contains background image settings*/
+  background-image: url(photos/website_home.webp);
+    background-repeat: no-repeat; 
+    background-position: center;  
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+p{
+  margin: 0;
+  font-family: Arial;
+}
+
+.sidebar{
+  width: 33fr; 
+}
+.porfpic{
+  height: 61fr; 
+}
+.prof{
+  height: 7fr;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+.main{
+  width: 66fr; 
+}
+
+/* prof pic .61 fr
