@@ -1,5 +1,5 @@
 ﻿/** This file contains css code for index.html*/
-/** Last edited 2/10/2025*/
+/** Last edited 3/10/2025*/
 /** Auther Owen M Perry*/
 
 body {
@@ -105,7 +105,6 @@ page {
 .AboutME {
     display: inline-block;
     width: 50%;
-    background-color: #EDEDED;
     height: 100vh;
     box-sizing: border-box;
     vertical-align: bottom;
@@ -113,12 +112,10 @@ page {
 .divider{
     display: block;
     width: 100%;
-    background-color: white;
-    height: 20vh;
+    height: 30vh;
 }
 .Biobox{
-    height: 40vh;
-    background-color: white;
+    height: 35vh;
 }
 .Biotext {
     text-align: center;
@@ -141,9 +138,3 @@ page {
     text-align: center;
     background-color: #3A393B;
 }
-.divider2 {
-    display: block;
-    width: 100%;
-    background-color: white;
-    height: 10vh;
-    }
