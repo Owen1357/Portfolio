@@ -1,0 +1,149 @@
+﻿/** This file contains css code for index.html*/
+/** Last edited 2/10/2025*/
+/** Auther Owen M Perry*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+page {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+.title {
+    height: 10vh;
+    background-color: white;
+}
+.titletext1 {
+    display: block;
+    color: black;
+    font-size: 60pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.titletext2 {
+    display: block;
+    color: black;
+    font-size: 40pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+/** contains infobox bellow*/
+.infobox { /** contains photo contact,infomation, and name*/
+    margin: 0;
+    display: inline-block;
+    width: 30%;
+    background-color: #3A393B;
+    vertical-align: bottom;
+}
+
+.photobox {
+    display: block;
+    height: 100%;
+    text-align: center;
+    height: 60vh;
+}
+.photo {
+    vertical-align: central;
+    width: 80%;
+    border-radius: 100%;
+    margin-top: 10%;
+    border: white;
+    border-width: 25px;
+}
+
+.name {
+    display: block;
+    color: white;
+    font-size: 60pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    height: 10vh;
+}
+
+.Contactinfo { /** contains box with phone number,email, and adress*/
+    vertical-align: bottom;
+    height: 30vh;
+}
+
+.email {
+    display: block;
+    color: white;
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+.phone {
+    display: block;
+    color: white;
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+.address {
+    display: block;
+    color: white;
+    font-size: 20pt;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    cursor: pointer;
+}
+/** contains infobox above*/
+/** contains about me bellow*/
+.AboutME {
+    display: inline-block;
+    width: 50%;
+    background-color: #EDEDED;
+    height: 100vh;
+    box-sizing: border-box;
+    vertical-align: bottom;
+}
+.divider{
+    display: block;
+    width: 100%;
+    background-color: white;
+    height: 20vh;
+}
+.Biobox{
+    height: 40vh;
+    background-color: white;
+}
+.Biotext {
+    text-align: center;
+    margin: 0;
+    font-size: 20pt;
+    margin-bottom: 15px;
+}
+.ResumeLinks {
+    height: 10vh;
+}
+.resumesSpacers {
+    width: 10%;
+    display: inline-block;
+    height: 10vh;
+}
+.resumesbuttens {
+    width: 40%;
+    height: 10vh;
+    display: inline-block;
+    text-align: center;
+    background-color: #3A393B;
+}
+.divider2 {
+    display: block;
+    width: 100%;
+    background-color: white;
+    height: 10vh;
+    }
