@@ -46,7 +46,16 @@ p {
     margin-top: 0px;
     margin-bottom: 20px;
 }
-.titletext2white {
+.titletext1White {
+    display: block;
+    color: white;
+    font-size: 60pt;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.titletext2White {
     display: block;
     color: white;
     font-size: 40pt;
@@ -54,6 +63,9 @@ p {
     text-align: center;
     margin-top: 0px;
     margin-bottom: 20px;
+}
+.spacer10 {
+    height: 10vh;
 }
 
 /** contains infobox bellow*/
@@ -183,19 +195,42 @@ p {
         .ResumesButtens:hover:active {
             background-color: black;
         }
-    
-
-.spacer10 {
-    height: 10vh;
-}
 
 /** contains about me above*/ 
 /** contains portfoliolinks bellow*/
 .PortfolioLinks {
     display: inline-block;
-    width: 18vw;
+    width: 18.5vw;
     box-sizing: border-box;
     vertical-align: top;
     background-color: #3A393B;
+    text-align: center;
 }
+.PortfolioButtensboxes {
+    height: 10vh;
+    margin: 0;
+    text-align:center;
+}
+
+.ResumesButtensWhite {
+    text-align: center;
+    font-size: 40pt;
+    width: 80%;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: white;
+    color: #3A393B;
+    cursor: pointer;
+    border: 3px;
+    text-decoration:none;
+}
+
+    .ResumesButtensWhite:hover {
+        padding: 11px;
+        cursor: pointer;
+    }
+
+        .ResumesButtensWhite:hover:active {
+            background-color: lightgray;
+        }
 /** contains portfoliolinks above*/
