@@ -1,21 +1,10 @@
-﻿/** This file contains css code for index.html*/
-/** Last edited 4/10/2025*/
+﻿/** This file contains css code for index.html and indexDE.html*/
+/** Last edited 7/10/2025*/
 /** Auther Owen M Perry*/
-
 body {
     margin: 0;
     padding: 0;
-}
-.page {
-    width: 100vw;
-    box-sizing: border-box;
     background-color: #3A393B;
-    height: unset;
-} 
-page {
-    display: block;
-    margin: 0;
-    padding: 0;
 }
 div {
     margin: 0;
@@ -25,6 +14,16 @@ p {
     margin: 0;
     padding: 0;
 }
+a {
+    text-decoration: none;
+}
+
+.page {
+    width: 100vw;
+    box-sizing: border-box;
+    background-color: #3A393B;
+    height: unset;
+} 
 .title {
     height: 10vh;
     vertical-align: bottom;
@@ -34,62 +33,44 @@ p {
     color: black;
     font-size: 3vw;
     font-weight: bold;
-    text-align: center;
-    margin-top: 0px;
     margin-bottom: 20px;
-    white-space: nowrap;
-    overflow: hidden;
 }
 .titletext2 {
     display: block;
     color: black;
     font-size: 2.5vw;
     font-weight: bold;
-    text-align: center;
-    margin-top: 0px;
     margin-bottom: 20px;
-    white-space: nowrap;
-    overflow: hidden;
 }
 .titletext1White {
     display: block;
     color: white;
     font-size: 3vw;
     font-weight: bold;
-    text-align: center;
-    margin-top: 0px;
     margin-bottom: 20px;
-    white-space: nowrap;
-    overflow: hidden;
 }
 .titletext2White {
     display: block;
     color: white;
     font-size:  2.5vw;
     font-weight: bold;
-    text-align: center;
     margin-top: 2vh;
     margin-bottom: 2vh;
-    white-space: nowrap;
-    overflow: hidden;
 }
 .spacer10 {
     height: 10vh;
-}
-a {
-    text-decoration: none;
-}
+}/**spacer that takes 10% of a page height*/
+
 /** contains infobox bellow*/
 .infobox { /** contains photo contact,infomation, and name*/
     margin: 0;
     display: inline-block;
     width: 30vw;
     align-content: baseline;
+    text-align: center;
 }
-
 .photobox {
     display: block;
-    text-align: center;
     height: 40vh;
     vertical-align: top;
     margin-top: 2vh;
@@ -102,31 +83,26 @@ a {
     border: white;
     border-width: 25px;
 }
-
 .name {
     vertical-align: central;
     display: block;
     color: white;
     font-size: 4vw;
     font-weight: bold;
-    text-align: center;
     margin-top: 10vh;
     height: 10vh;
     white-space: nowrap;
     overflow: hidden;
 }
-
 .Contactinfo { /** contains box with phone number,email, and adress*/
     vertical-align: bottom;
     height: 40vh;
     margin: 0;
 }
-
 .email {
     display: block;
     color: white;
     font-size: 1vw;
-    text-align: center;
     margin-top: .5vh;
     margin-bottom: 2vh;
     cursor: pointer;
@@ -136,7 +112,6 @@ a {
     display: block;
     color: white;
     font-size: 1vw;
-    text-align: center;
     margin-bottom: 2vh;
     cursor: pointer;
     text-decoration: none;
@@ -145,12 +120,12 @@ a {
     display: block;
     color: white;
     font-size: 1vw;
-    text-align: center;
     margin-bottom: 3rem;
     cursor: pointer;
     text-decoration:none;
 }
 /** contains infobox above*/
+
 /** contains about me bellow*/
 .AboutME {
     display: inline-block;
@@ -160,7 +135,7 @@ a {
     background-color: white;
     text-align: center;
 }
-.divider{
+.divider /**Spacer on top of 30% sceen takes */ {
     display: block;
     width: 100%;
     height: 30vh;
@@ -169,7 +144,6 @@ a {
     height: 35vh;
 }
 .Biotext {
-    text-align: center;
     margin: 0;
     font-size: 1vw;
     margin-bottom: 1vh;
@@ -177,21 +151,13 @@ a {
 .ResumeLinks {
     height: 10vh;
     margin: 0;
-}
-.resumesSpacers {
-    width: 10%;
-    display: inline-block;
-    height: 10vh;
-    margin: 0;
-}
+}/**holds resume link buttens*/
 .ResumesButtensSpacers {
     margin: 0;
     width: 40%;
     height: 10vh;
     display: inline-block;
-    text-align: center;
     vertical-align: bottom;
-
 }
 .ResumesButtens {
     font-size: 2vw;
@@ -201,7 +167,7 @@ a {
     color: white;
     cursor: pointer;
     background-color: #3A393B;
-    border: 3px;
+    border: none;
 }
     .ResumesButtens:hover {
         font-size: 2.2vw;
@@ -212,8 +178,8 @@ a {
         .ResumesButtens:hover:active {
             background-color: black;
         }
-
 /** contains about me above*/ 
+
 /** contains portfoliolinks bellow*/
 .PortfolioLinks {
     display: inline-block;
@@ -232,8 +198,7 @@ a {
     align-content: center;
     
 }
-
-.ResumesButtensWhite {
+.PortfolioButtens {
     font-size: 2vw;
     width: 80%;
     border-radius: .5vw;
@@ -242,17 +207,17 @@ a {
     cursor: pointer;
     background-color: white;
     padding: .5vh;
+    padding-left:0;
+    padding-right:0;
     margin: auto;
 }
-
-    .ResumesButtensWhite:hover {
+    .PortfolioButtens:hover {
         font-size: 2.2vw;
         width: 82%;
         margin-top: .5vh;
         cursor: pointer;
     }
-
-        .ResumesButtensWhite:hover:active {
+        .PortfolioButtens:hover:active {
             background-color: lightgray;
         }
 /** contains portfoliolinks above*/
