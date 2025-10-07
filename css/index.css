@@ -10,6 +10,7 @@ body {
     width: 100vw;
     box-sizing: border-box;
     background-color: #3A393B;
+    height: unset;
 } 
 page {
     display: block;
@@ -31,74 +32,88 @@ p {
 .titletext1 {
     display: block;
     color: black;
-    font-size: 60pt;
+    font-size: 3vw;
     font-weight: bold;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .titletext2 {
     display: block;
     color: black;
-    font-size: 40pt;
+    font-size: 2.5vw;
     font-weight: bold;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .titletext1White {
     display: block;
     color: white;
-    font-size: 60pt;
+    font-size: 3vw;
     font-weight: bold;
     text-align: center;
     margin-top: 0px;
     margin-bottom: 20px;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .titletext2White {
     display: block;
     color: white;
-    font-size: 40pt;
+    font-size:  2.5vw;
     font-weight: bold;
     text-align: center;
-    margin-top: 0px;
-    margin-bottom: 20px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .spacer10 {
     height: 10vh;
 }
-
+a {
+    text-decoration: none;
+}
 /** contains infobox bellow*/
 .infobox { /** contains photo contact,infomation, and name*/
     margin: 0;
     display: inline-block;
     width: 30vw;
-    vertical-align: bottom;
+    align-content: baseline;
 }
 
 .photobox {
     display: block;
     text-align: center;
     height: 40vh;
+    vertical-align: top;
+    margin-top: 2vh;
 }
 .photo {
-    width: 80%;
+    height: 100%;
     border-radius: 100%;
-    margin-bottom: 10%;
+    margin-top: 10%;
     vertical-align: central;
     border: white;
     border-width: 25px;
 }
 
 .name {
+    vertical-align: central;
     display: block;
     color: white;
-    font-size: 60pt;
+    font-size: 4vw;
     font-weight: bold;
     text-align: center;
-    margin-top: 0px;
-    margin-bottom: 20px;
+    margin-top: 10vh;
     height: 10vh;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .Contactinfo { /** contains box with phone number,email, and adress*/
@@ -110,29 +125,30 @@ p {
 .email {
     display: block;
     color: white;
-    font-size: 20pt;
+    font-size: 1vw;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 40px;
+    margin-top: .5vh;
+    margin-bottom: 2vh;
     cursor: pointer;
+    text-decoration: none;
 }
 .phone {
     display: block;
     color: white;
-    font-size: 20pt;
+    font-size: 1vw;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 2vh;
     cursor: pointer;
+    text-decoration: none;
 }
 .address {
     display: block;
     color: white;
-    font-size: 20pt;
+    font-size: 1vw;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 40px;
+    margin-bottom: 3rem;
     cursor: pointer;
+    text-decoration:none;
 }
 /** contains infobox above*/
 /** contains about me bellow*/
@@ -142,6 +158,7 @@ p {
     box-sizing: border-box;
     vertical-align: top;
     background-color: white;
+    text-align: center;
 }
 .divider{
     display: block;
@@ -154,8 +171,8 @@ p {
 .Biotext {
     text-align: center;
     margin: 0;
-    font-size: 20pt;
-    margin-bottom: 15px;
+    font-size: 1vw;
+    margin-bottom: 1vh;
 }
 .ResumeLinks {
     height: 10vh;
@@ -177,17 +194,17 @@ p {
 
 }
 .ResumesButtens {
-    font-size: 40pt;
+    font-size: 2vw;
     width: 80%;
     height: 80%;
-    border-radius: 15px;
+    border-radius: 1vw;
     color: white;
     cursor: pointer;
     background-color: #3A393B;
     border: 3px;
 }
     .ResumesButtens:hover {
-        font-size: 40pt;
+        font-size: 2.2vw;
         width: 82%;
         height: 82%;
         cursor: pointer;
@@ -200,7 +217,7 @@ p {
 /** contains portfoliolinks bellow*/
 .PortfolioLinks {
     display: inline-block;
-    width: 18.5vw;
+    width: 18vw;
     box-sizing: border-box;
     vertical-align: top;
     background-color: #3A393B;
@@ -208,25 +225,30 @@ p {
 }
 .PortfolioButtensboxes {
     height: 10vh;
+    width: 18vw;
     margin: 0;
-    text-align:center;
+    
+    text-decoration: none;
+    align-content: center;
+    
 }
 
 .ResumesButtensWhite {
-    text-align: center;
-    font-size: 40pt;
+    font-size: 2vw;
     width: 80%;
-    padding: 10px;
-    border-radius: 15px;
-    background-color: white;
-    color: #3A393B;
+    border-radius: .5vw;
+    text-align: center;
+    color: black;
     cursor: pointer;
-    border: 3px;
-    text-decoration:none;
+    background-color: white;
+    padding: .5vh;
+    margin: auto;
 }
 
     .ResumesButtensWhite:hover {
-        padding: 11px;
+        font-size: 2.2vw;
+        width: 82%;
+        margin-top: .5vh;
         cursor: pointer;
     }
 
