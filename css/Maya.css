@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #3A393B;
+    text-align: center;
+    vertical-align: middle;
+}
+a {
+    text-decoration: none;
+}
+
+
+
+.titletext1White {
+    display: block;
+    color: white;
+    font-size: 3vw;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.Homepage {
+    font-size: 1.5vw;
+    width: 15vw;
+    border-radius: .5vw;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    padding: .5vh;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 42.5vw;
+}
+
+    .Homepage:hover {
+        font-size: 1.6vw;
+        width: 16vw;
+        margin-left: 42vw;
+        margin-top: .5vh;
+        cursor: pointer;
+    }
+
+        .Homepage:hover:active {
+            background-color: lightgray;
+        }

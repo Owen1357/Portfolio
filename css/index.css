@@ -96,7 +96,7 @@ a {
 }
 .Contactinfo { /** contains box with phone number,email, and adress*/
     vertical-align: bottom;
-    height: 40vh;
+    height: 25vh;
     margin: 0;
 }
 .email {
@@ -124,6 +124,31 @@ a {
     cursor: pointer;
     text-decoration:none;
 }
+.languageButtens {
+    font-size: 1.5vw;
+    width: 15vw;
+    border-radius: .5vw;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+    background-color: white;
+    padding: .5vh;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left:7.5vw;
+}
+
+    .languageButtens:hover {
+        font-size: 1.6vw;
+        width: 16vw;
+        margin-left: 7vw;
+        margin-top: .5vh;
+        cursor: pointer;
+    }
+
+        .languageButtens:hover:active {
+            background-color: lightgray;
+        }
 /** contains infobox above*/
 
 /** contains about me bellow*/
