@@ -1,0 +1,72 @@
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+img {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.topbarbox {
+    display: block;
+    width: 100vw;
+    height: 9vh;
+    position: fixed;
+    background-color: black;
+}
+
+.HomeIcon {
+    display: inline-block;
+    height: 80%;
+    margin-left: 1vw;
+    margin-right: 14vw;
+    vertical-align: top;
+    margin-top: .5vh;
+}
+.Icon {
+    display: inline-block;
+    height: 80%;
+    margin-left: 1vw;
+    vertical-align: top;
+    margin-top: .8vh;
+}
+.endIcon {
+    display: inline-block;
+    height: 80%;
+    margin-left: 1vw;
+    margin-right: 5vw;
+    vertical-align: top;
+    margin-top: .8vh;
+}
+
+.PortfolioButtensboxes {
+    display: inline-block;
+    width: 10vw;
+    height: 9vh;
+    margin-right: 1vw;
+    vertical-align: top;
+    margin-top: 1vh;
+}
+
+.PortfolioButtens {
+    font-size: 2vh;
+    border-radius: .5vw;
+    padding-top: .8vh;
+    padding-bottom: 1vh;
+    text-align: center;
+    color: black;
+    cursor: pointer;
+    background-color: white;
+}
+
+    .PortfolioButtens:hover {
+        font-size: 1.8vh;
+        cursor: pointer;
+    }
+
+        .PortfolioButtens:hover:active {
+            background-color: lightgray;
+        }

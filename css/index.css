@@ -33,21 +33,21 @@ a {
     color: black;
     font-size: 3vw;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: .7vh;
 }
 .titletext2 {
     display: block;
     color: black;
-    font-size: 2.5vw;
+    font-size: 1.8vw;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: .7vh;
 }
 .titletext1White {
     display: block;
     color: white;
     font-size: 3vw;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: .7vh;
 }
 .titletext2White {
     display: block;
@@ -64,6 +64,7 @@ a {
 /** contains infobox bellow*/
 .infobox { /** contains photo contact,infomation, and name*/
     margin: 0;
+    padding: 0;
     display: inline-block;
     width: 30vw;
     align-content: baseline;
@@ -160,13 +161,13 @@ a {
     background-color: white;
     text-align: center;
 }
-.divider /**Spacer on top of 30% sceen takes */ {
+.divider /**Spacer on top of 20% sceen takes */ {
     display: block;
     width: 100%;
-    height: 30vh;
+    height: 10vh;
 }
 .Biobox{
-    height: 35vh;
+    height: 55vh;
 }
 .Biotext {
     margin: 0;
