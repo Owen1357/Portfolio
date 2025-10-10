@@ -3,6 +3,63 @@ body {
     margin: 0;
 }
 
-.page {
-    height: 200vh;
+.Page {
+    text-align: center;
+}
+
+.topbar {
+    width: 100vw;
+    height: 9vh;
+    vertical-align: top;
+}
+
+.Title {
+    font-size: 7em;
+    margin: .25em;
+    color: white;
+    font-weight: bold;
+}
+
+.SmallFont {
+    font-size: 2.5em;
+    margin: .1em;
+    color: white;
+}
+.MediumFont {
+    font-size: 5em;
+    margin-top: 1em;
+    margin-bottom: .5em;
+    color: white;
+    text-align: center;
+}
+.PhotoGallery {
+    width: 80vw;
+    background-color: transparent;
+    vertical-align: top;
+    margin: auto;
+}
+.Maps {
+    display: inline-block;
+    width: 550px;
+    height: auto;
+    margin: 1em;
+}
+.Posterkitchen {
+    display: inline-block;
+    width: 550px;
+    height: auto;
+    margin: 1em;
+}
+.InfoPoster {
+    display: inline-block;
+    width: 550px;
+    height: auto;
+    margin: 1em;
+}
+.a4 {
+    display: inline-block;
+    width: 366px;
+    height: auto;
+    margin: 1em;
+    align-content: center;
 }
