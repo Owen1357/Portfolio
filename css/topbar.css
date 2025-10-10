@@ -16,6 +16,7 @@ img {
     height: 9vh;
     position: fixed;
     background-color: black;
+   vertical-align: top;
 }
 
 .HomeIcon {
@@ -60,6 +61,7 @@ img {
     color: black;
     cursor: pointer;
     background-color: white;
+    font-weight: 400;
 }
 
     .PortfolioButtens:hover {
