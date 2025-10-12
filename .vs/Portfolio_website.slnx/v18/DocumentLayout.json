@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "E:\\work\\PORFOLIO\\Portfolio_website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio_website\\PagelayoutsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PagelayoutsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio_website\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio_website\\logosEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logosEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio_website\\logos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio_website\\adsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:adsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio_website\\indexenglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexenglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagelayoutsEnglish.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio_website\\PagelayoutsEnglish.html",
-              "RelativeDocumentMoniker": "PagelayoutsEnglish.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio_website\\PagelayoutsEnglish.html",
-              "RelativeToolTip": "PagelayoutsEnglish.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-10T11:14:49.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "logosEnglish.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio_website\\logosEnglish.html",
-              "RelativeDocumentMoniker": "logosEnglish.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio_website\\logosEnglish.html",
-              "RelativeToolTip": "logosEnglish.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "indexenglish.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio_website\\indexenglish.html",
+              "RelativeDocumentMoniker": "indexenglish.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio_website\\indexenglish.html",
+              "RelativeToolTip": "indexenglish.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-10T11:14:47.981Z",
+              "WhenOpened": "2025-10-11T06:00:24.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "logos.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio_website\\logos.html",
-              "RelativeDocumentMoniker": "logos.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio_website\\logos.html",
-              "RelativeToolTip": "logos.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio_website\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio_website\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-10T11:14:46.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "adsEnglish.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio_website\\adsEnglish.html",
-              "RelativeDocumentMoniker": "adsEnglish.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio_website\\adsEnglish.html",
-              "RelativeToolTip": "adsEnglish.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-10T11:14:45.443Z",
+              "WhenOpened": "2025-10-11T06:00:03.188Z",
               "EditorCaption": ""
             }
           ]
