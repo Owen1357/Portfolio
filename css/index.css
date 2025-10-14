@@ -17,6 +17,15 @@ p {
 a {
     text-decoration: none;
 }
+.topbar {
+    text-align: center;
+    width: 100%;
+}
+.smfont{
+    font-size:2em;
+    color: white;
+    margin: 1em
+}
 
 .page {
     width: 100vw;

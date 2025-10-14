@@ -1,0 +1,46 @@
+make map 1
+make map 2
+make map 3
+make map 4
+
+make informational posters 1
+make informational posters 2
+make informational posters 3
+
+manual 1	{kitchen book}
+manual 2	{kitchen book}
+make manual 3
+make manual 4
+
+make logo 1
+make logo 2
+make logo 3
+make logo 4
+make logo 5
+make logo 6
+make logo 7
+make logo 8
+make logo 9
+make logo 10
+make logo 11
+make logo 12
+make logo 13
+make logo 14
+make logo 15
+make logo 16
+make logo 17
+make logo 18
+make logo 19
+make logo 20
+
+
+make banner ad 1
+make banner ad 2
+make banner ad 3
+
+make social ad 1
+make social ad 2
+make social ad 3
+make social ad 4
+make social ad 5
+make social ad 6

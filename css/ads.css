@@ -2,6 +2,53 @@ body {
     background-color: #3A393B;
     margin: 0;
 }
-.page {
-    height: 200vh;
+.Page {
+    text-align:center;
+}
+.topbar {
+    width: 100vw;
+    height: 9vh;
+    vertical-align: top;
+}
+.Title {
+    font-size: 7em;
+    margin: .25em;
+    color: white;
+    font-weight: bold;
+}
+
+.SmallSmallFont {
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+}
+
+.SmallFont {
+    font-size: 2.5em;
+    margin: .1em;
+    color: white;
+}
+
+.MediumFont {
+    font-size: 5em;
+    margin-top: 1em;
+    margin-bottom: .5em;
+    color: white;
+    text-align: center;
+}
+
+.PhotoGallery {
+    width: 80vw;
+    background-color: transparent;
+    vertical-align: top;
+    margin: auto;
+}
+.bannerads{
+    height: 250px;
+}
+.SMAds{
+    height: 275px;
+}
+.spacer10{
+    height:10vh;
 }
