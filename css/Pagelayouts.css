@@ -24,6 +24,12 @@ body {
     margin: .1em;
     color: white;
 }
+.SmallSmallFontInline {
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+    display:inline;
+}
 .SmallFont {
     font-size: 2.5em;
     margin: .1em;
@@ -66,4 +72,7 @@ body {
     height: auto;
     margin: 1em;
     align-content: center;
+}
+.Presintation {
+    width:1400px;
 }
