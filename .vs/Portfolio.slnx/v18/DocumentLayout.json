@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Portfolio\\",
+  "WorkspaceRootPath": "E:\\work\\PORFOLIO\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\css\\Pagelayouts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\Pagelayouts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Portfolio\\PagelayoutsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PagelayoutsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pagelayouts.css",
-              "DocumentMoniker": "C:\\Portfolio\\css\\Pagelayouts.css",
-              "RelativeDocumentMoniker": "css\\Pagelayouts.css",
-              "ToolTip": "C:\\Portfolio\\css\\Pagelayouts.css",
-              "RelativeToolTip": "css\\Pagelayouts.css",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-19T18:11:27.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PagelayoutsEnglish.html",
-              "DocumentMoniker": "C:\\Portfolio\\PagelayoutsEnglish.html",
-              "RelativeDocumentMoniker": "PagelayoutsEnglish.html",
-              "ToolTip": "C:\\Portfolio\\PagelayoutsEnglish.html",
-              "RelativeToolTip": "PagelayoutsEnglish.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAHAAAAAAAAAA==",
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-10-19T18:01:29.936Z",
+              "WhenOpened": "2025-11-03T04:58:44.947Z",
               "EditorCaption": ""
             }
           ]

@@ -2,73 +2,62 @@ a {
     margin: 0;
     padding: 0;
     text-decoration: none;
+    overflow: hidden;
 }
 img {
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
 
 
 .topbarbox {
     display: block;
-    width: 100vw;
-    height: 9vh;
+    width: 100%;
     position: fixed;
     background-color: black;
-   vertical-align: top;
+    text-align: center;
 }
 
 .HomeIcon {
     display: inline-block;
-    height: 80%;
-    margin-left: 1vw;
-    margin-right: 14vw;
+    height: 4em;
+    margin-left: 1em;
+    margin-right: 1em;
     vertical-align: top;
     margin-top: .5vh;
+    position: fixed;
+    left: 0;
 }
-.Icon {
+.iconbox {
     display: inline-block;
-    height: 80%;
-    margin-left: 1vw;
-    vertical-align: top;
-    margin-top: .8vh;
-}
-.endIcon {
-    display: inline-block;
-    height: 80%;
-    margin-left: 1vw;
-    margin-right: 4vw;
-    vertical-align: top;
-    margin-top: .8vh;
+    position: fixed;
+    left: 0;
+    width: 6em;
 }
 
-.PortfolioButtensboxes {
-    display: inline-block;
-    width: 10vw;
-    height: 9vh;
-    margin-right: 1vw;
-    vertical-align: top;
-    margin-top: 1vh;
-}
+
 
 .PortfolioButtens {
-    font-size: 2vh;
-    border-radius: .5vw;
-    padding-top: .8vh;
-    padding-bottom: 1vh;
-    text-align: center;
-    color: black;
-    cursor: pointer;
+    vertical-align: middle;
+    display: inline-block;
     background-color: white;
-    font-weight: 400;
+    color: black;
+    font-size: 1.5em;
+    padding: .5em;
+    text-decoration: none;
+    border-radius: .5vh;
+    width: 8em;
+    font-weight: bold;
 }
 
     .PortfolioButtens:hover {
-        font-size: 1.8vh;
-        cursor: pointer;
+        background-color: lightgrey;
+        color: black;
     }
 
-        .PortfolioButtens:hover:active {
-            background-color: lightgray;
-        }
+    .PortfolioButtens:active {
+        background-color: grey;
+        color: black;
+    }

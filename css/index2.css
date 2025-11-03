@@ -1,0 +1,107 @@
+
+/** Auther Owen M Perry*/
+body {
+    margin: 0;
+    background-color: #333;
+}
+p{
+    margin: 0;
+}
+/** Used in differnt parts*/
+.ContentCell {
+    display: block;
+    text-align: center;
+    margin-top: 5vh;
+}
+.MainText {
+    display: block;
+    font-size: 4em;
+    font-weight: bold;
+    color: white;
+    margin-bottom: .5em;
+}
+.SubText {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+.ParagraphText {
+    display: block;
+    font-size: 1.5em;
+    color: white;
+    margin-bottom: .25em;
+}
+/** infobox & Photo*/
+.ProfilePhoto {
+    display: inline-block;
+    height: 500px;
+    border-radius: 100%;
+}
+.ContactInfoBox {
+    display: inline-block;
+    text-align: center;
+    vertical-align: baseline;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.ContactInfo {
+    display: block;
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    color: white;
+    text-decoration: none;
+}
+
+.LanguageButten {
+    background-color: white;
+    color: black;
+    font-size: 1.5em;
+    padding: .5em;
+    text-decoration: none;
+    border-radius: .5vh;
+    margin-top: 15px;
+}
+
+.LanguageButten:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+.LanguageButten:active {
+    background-color: grey;
+    color: black;
+}
+/** portfoliolinks*/
+
+.LinkBoxes {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.PortfolioButtens {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    font-size: 1.5em;
+    padding: .5em;
+    text-decoration: none;
+    border-radius: .5vh;
+    margin-top: 15px;
+    width: 10em;
+    font-weight: bold;
+}
+
+    .PortfolioButtens:hover {
+        background-color: lightgrey;
+        color: black;
+    }
+
+    .PortfolioButtens:active {
+        background-color: grey;
+        color: black;
+    }

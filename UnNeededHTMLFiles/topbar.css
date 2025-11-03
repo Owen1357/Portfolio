@@ -2,19 +2,17 @@ a {
     margin: 0;
     padding: 0;
     text-decoration: none;
-    overflow: hidden;
 }
 img {
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 
 
 
 .topbarbox {
     display: block;
-    width: 100%;
+    width: 100vw;
     height: 9vh;
     position: fixed;
     background-color: black;
@@ -24,23 +22,23 @@ img {
 .HomeIcon {
     display: inline-block;
     height: 80%;
-    margin-left: 1em;
-    margin-right: 14em;
+    margin-left: 1vw;
+    margin-right: 14vw;
     vertical-align: top;
     margin-top: .5vh;
 }
 .Icon {
     display: inline-block;
     height: 80%;
-    margin-left: 1em;
+    margin-left: 1vw;
     vertical-align: top;
     margin-top: .8vh;
 }
 .endIcon {
     display: inline-block;
     height: 80%;
-    margin-left: 1em;
-    margin-right: 4em;
+    margin-left: 1vw;
+    margin-right: 4vw;
     vertical-align: top;
     margin-top: .8vh;
 }
@@ -49,7 +47,7 @@ img {
     display: inline-block;
     width: 10vw;
     height: 9vh;
-    margin-right: 1em;
+    margin-right: 1vw;
     vertical-align: top;
     margin-top: 1vh;
 }
