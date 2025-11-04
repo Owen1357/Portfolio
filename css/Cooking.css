@@ -1,0 +1,67 @@
+
+body {
+    background-color: #3A393B;
+    margin: 0;
+}
+
+.page {
+    text-align: center;
+}
+
+.topbar {
+    width: 100vw;
+    height: 9vh;
+    vertical-align: top;
+}
+.Title {
+    font-size: 5em;
+    margin: .25em;
+    color: white;
+    font-weight: bold;
+}
+.SubTitle {
+    font-size: 3.5em; 
+    margin: .25em;
+    color: white;
+    font-weight: bold;
+}
+.SubSubTitle {
+    font-size: 2.75em;
+    margin: .25em;
+    color: white;
+    font-weight: 500;
+}
+.SmallFont {
+    display: block;
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+}
+.SmallSmallFont {
+    display: block;
+    font-size: 1.5em;
+    margin: .1em;
+    color: white;
+}
+.SubSubSubTitle {
+    display: block;
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+}
+.SmallFontLink {
+    display: block;
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.ItalicSmallFont {
+    display: block;
+    font-size: 1.5em;
+    margin: .1em;
+    color: white;
+    font-style: italic;
+}

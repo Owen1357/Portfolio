@@ -34,7 +34,7 @@ img {
     display: inline-block;
     position: fixed;
     left: 0;
-    width: 6em;
+    width: 10em;
 }
 
 
@@ -48,7 +48,7 @@ img {
     padding: .5em;
     text-decoration: none;
     border-radius: .5vh;
-    width: 8em;
+    width: 7em;
     font-weight: bold;
 }
 
