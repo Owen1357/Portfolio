@@ -81,5 +81,29 @@ body {
     margin: auto;
 }
 .FoodPhoto {
-    height: 30em;
+    height: 31em;
+    background-color: #2b2b2b;
+    padding: 0;
+    border: 2px solid white;
 }
+.Butten {
+    vertical-align: middle;
+    display: inline-block;
+    background-color: white;
+    color: black;
+    font-size: 1.5em;
+    padding: .5em;
+    text-decoration: none;
+    border-radius: .5vh;
+    font-weight: bold;
+}
+
+    .Butten:hover {
+        background-color: lightgrey;
+        color: black;
+    }
+
+    .Butten:active {
+        background-color: grey;
+        color: black;
+    }
