@@ -3,7 +3,9 @@ body {
     background-color: #3A393B;
     margin: 0;
 }
-
+img {
+    margin: 0;
+}
 .page {
     text-align: center;
 }
@@ -70,9 +72,9 @@ body {
     vertical-align: top;
     display: inline-block;
     border: 2px solid white;
-    height: 45em;
     width: 40em;
     padding: 1em;
+    margin-bottom: 5em;
 }
 .PhotoGallery {
     width: 80vw;
@@ -83,7 +85,6 @@ body {
 .FoodPhoto {
     height: 31em;
     background-color: #2b2b2b;
-    padding: 0;
     border: 2px solid white;
 }
 .Butten {
@@ -107,3 +108,21 @@ body {
         background-color: grey;
         color: black;
     }
+.jobinfo {
+    height: 15em;
+}
+.positions {
+    height: 8em;
+}
+.Description {
+    height: 30em;
+}
+.start {
+    height: 14em;
+}
+.startDE {
+    height: 19em;
+}
+.leave {
+    height: 10em;
+}
