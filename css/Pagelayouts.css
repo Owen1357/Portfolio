@@ -74,5 +74,9 @@ body {
     align-content: center;
 }
 .Presintation {
-    width:60%;
+    width: 60%;
+    align-content: center;
+}
+.contentblock {
+    align-content: center;
 }
