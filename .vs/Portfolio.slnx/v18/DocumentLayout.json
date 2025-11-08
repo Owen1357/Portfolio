@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "E:\\work\\PORFOLIO\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\Pagelayouts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pagelayouts.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\adsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:adsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\ads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pagelayouts.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\Pagelayouts.html",
-              "RelativeDocumentMoniker": "Pagelayouts.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\Pagelayouts.html",
-              "RelativeToolTip": "Pagelayouts.html",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEYAAACIAAAAAAAAAA==",
+              "Title": "adsEnglish.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\adsEnglish.html",
+              "RelativeDocumentMoniker": "adsEnglish.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\adsEnglish.html",
+              "RelativeToolTip": "adsEnglish.html",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-07T18:41:48.221Z",
+              "WhenOpened": "2025-11-08T06:57:07.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ads.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\ads.html",
+              "RelativeDocumentMoniker": "ads.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\ads.html",
+              "RelativeToolTip": "ads.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-08T06:56:55.135Z",
               "EditorCaption": ""
             }
           ]
