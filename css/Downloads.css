@@ -1,0 +1,62 @@
+body {
+    background-color: #3A393B;
+    margin: 0;
+}
+
+.Page {
+    text-align: center;
+}
+.topbar {
+    width: 100vw;
+    height: 9vh;
+    vertical-align: top;
+}
+.LinkBoxes {
+    display: block;
+}
+
+
+
+
+.PortfolioButtens {
+    display: inline-block;
+    background-color: white;
+    color: black;
+    font-size: 1.5em;
+    padding: .5em;
+    text-decoration: none;
+    border-radius: .5vh;
+    margin-top: 15px;
+    width: 10em;
+    font-weight: bold;
+}
+
+.PortfolioButtens:hover {
+    background-color: lightgrey;
+    color: black;
+}
+
+.PortfolioButtens:active {
+    background-color: grey;
+    color: black;
+}
+.Title {
+    font-size: 7em;
+    margin: .25em;
+    color: white;
+    font-weight: bold;
+}
+.SmallFont {
+    font-size: 2.5em;
+    margin: .1em;
+    color: white;
+}
+.exSmallFont {
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+    font-style: italic;
+}
+.spacer10 {
+    height: 10vh;
+}

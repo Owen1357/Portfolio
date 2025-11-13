@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\work\\PORFOLIO\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\adsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:adsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\Downloads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Downloads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\ads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "adsEnglish.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\adsEnglish.html",
-              "RelativeDocumentMoniker": "adsEnglish.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\adsEnglish.html",
-              "RelativeToolTip": "adsEnglish.html",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-09T02:42:15.448Z",
+              "WhenOpened": "2025-11-13T08:06:00.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ads.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\ads.html",
-              "RelativeDocumentMoniker": "ads.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\ads.html",
-              "RelativeToolTip": "ads.html",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAACGAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Downloads.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\Downloads.html",
+              "RelativeDocumentMoniker": "Downloads.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\Downloads.html",
+              "RelativeToolTip": "Downloads.html",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-08T06:56:55.135Z",
+              "WhenOpened": "2025-11-13T08:00:51.955Z",
               "EditorCaption": ""
             }
           ]
