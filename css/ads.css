@@ -52,3 +52,15 @@ body {
 .spacer10{
     height:10vh;
 }
+.InfoPoster {
+    display: inline-block;
+    width: 450px;
+    height: auto;
+    margin: 1em;
+}
+.logos {
+    display: inline-block;
+    width: 250px;
+    height: auto;
+    margin: 2.5em;
+}

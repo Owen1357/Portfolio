@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "E:\\work\\PORFOLIO\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\Downloads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Downloads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\indexenglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexenglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\ads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "indexenglish.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\indexenglish.html",
+              "RelativeDocumentMoniker": "indexenglish.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\indexenglish.html",
+              "RelativeToolTip": "indexenglish.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-21T19:35:40.448Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -28,23 +45,22 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-13T08:06:00.839Z",
+              "WhenOpened": "2025-11-21T19:35:10.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Downloads.html",
-              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\Downloads.html",
-              "RelativeDocumentMoniker": "Downloads.html",
-              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\Downloads.html",
-              "RelativeToolTip": "Downloads.html",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEoAAABAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ads.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\ads.html",
+              "RelativeDocumentMoniker": "ads.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\ads.html",
+              "RelativeToolTip": "ads.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-13T08:00:51.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-21T19:29:22.476Z"
             }
           ]
         }
