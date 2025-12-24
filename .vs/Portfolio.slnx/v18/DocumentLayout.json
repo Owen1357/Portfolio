@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\work\\PORFOLIO\\Portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\indexenglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexenglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\logos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logos.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\Downloads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Downloads.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\work\\PORFOLIO\\Portfolio\\DownloadsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DownloadsEnglish.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "indexenglish.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\indexenglish.html",
+              "RelativeDocumentMoniker": "indexenglish.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\indexenglish.html",
+              "RelativeToolTip": "indexenglish.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAD0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-11T08:22:30.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logos.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\logos.html",
+              "RelativeDocumentMoniker": "logos.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\logos.html",
+              "RelativeToolTip": "logos.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-11T08:22:28.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-11T08:22:11.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DownloadsEnglish.html",
               "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\DownloadsEnglish.html",
               "RelativeDocumentMoniker": "DownloadsEnglish.html",
               "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\DownloadsEnglish.html",
               "RelativeToolTip": "DownloadsEnglish.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAD4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-28T05:10:56.574Z",
+              "WhenOpened": "2025-12-11T08:00:37.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Downloads.html",
+              "DocumentMoniker": "E:\\work\\PORFOLIO\\Portfolio\\Downloads.html",
+              "RelativeDocumentMoniker": "Downloads.html",
+              "ToolTip": "E:\\work\\PORFOLIO\\Portfolio\\Downloads.html",
+              "RelativeToolTip": "Downloads.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-11T08:00:12.403Z",
               "EditorCaption": ""
             }
           ]

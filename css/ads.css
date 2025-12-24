@@ -64,3 +64,9 @@ body {
     height: auto;
     margin: 2.5em;
 }
+.link {
+    font-size: 2em;
+    margin: .1em;
+    color: white;
+    text-decoration: underline;
+}
