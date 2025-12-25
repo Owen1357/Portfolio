@@ -2,7 +2,7 @@
 /** Auther Owen M Perry*/
 body {
     margin: 0;
-    background-color: #333;
+    background-color: #333; 
 }
 p{
     margin: 0;
@@ -13,6 +13,14 @@ p{
     text-align: center;
     margin-top: 5vh;
 }
+.ContentCell2 {
+    display: block;
+    background-color: #444;
+    text-align: center;
+    margin-top: 5vh;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}                                   
 .MainText {
     display: block;
     font-size: 4em;
